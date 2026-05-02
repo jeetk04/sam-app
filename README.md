@@ -49,17 +49,3 @@ sam local start-api
 ## Author
 
 Jeet
-
-````
-
----
-
-# 🚀 Step 2 — Commit README
-
-```bash
-git add README.md
-git commit -m "add README for project documentation"
-git push
-```
-
----
